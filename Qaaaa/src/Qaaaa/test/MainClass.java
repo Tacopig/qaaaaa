@@ -1,5 +1,6 @@
 package Qaaaa.test;
 
+
 public class MainClass {
 
 	/**
@@ -8,6 +9,9 @@ public class MainClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("q543245325");
+		
+		UserInfo info = new UserInfo();
+		
 	}
 
 }
